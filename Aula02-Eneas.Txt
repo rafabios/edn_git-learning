@@ -1,0 +1,14 @@
+Aula 02 - Resumo
+Infraestrututa global da AWS
+  Região;
+  Pontos de presença;
+  Zonas de disponibilidade;
+  
+Serviços regionais e globais
+  Regionais:
+  Restritos a uma determinada região;
+  EC2, Lambda, AWS Elastic;
+  Globais:
+  Amazon Route 53, AWS Waf;
+ 
+ Recusos gerenciados
