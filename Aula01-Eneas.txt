@@ -1,0 +1,23 @@
+Aula 01 - Resumo
+Computação nas Nuvens
+  Fornecimentos de serviços de computação, incluindo servidores, armazenamento, banco de dados, rede, software, análise e intelignecia, pela internet ("nuvem") para oferecer inovações
+  mais rápidas, recursos flexiveis e economias de escala.
+
+Responsabilidade compartilhada AWS
+  Responsabilidade compartilhada entre AWS e cliente;
+  A responsabilidade do cliente irá depender do serviço escolhido;
+  AWS - responsável por proteger a infraestrutura que executa todos os serviços oferecidos na nuvem AWS;
+  
+Modelos de computação na nuvem
+  IAAS (Infraestrutura como serviço)
+  PAAS (Plataforma como um serviço)
+  SAAS (Software como serviço)
+  
+ Escabilidade
+  Possibilidade de uma empresa poder ampliar ou reduzir os recursos utilizados de forma inteligente. Essa caracteristíca dá aos usuários a capacidade de modificar a quantidade de 
+  memória, espaço de armazenamento ou capacidade de processamento do servidor sem a necessidade de uma nova configuração física.
+ 
+ Elasticidade
+  Característica flexível de um serviço na nuvem, que permite o redimensionamento de recursos de acordo com a demanda do cliente;
+  Sua principal vantagem está na possibilidade de criar máquinas virtuais ou containers que atendam uma necessidade em tempo real, diminuindo ou aumento a oferta de forma autorizada e 
+  instantânea.
