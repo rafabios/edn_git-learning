@@ -8,7 +8,7 @@ Conteudo para alunos do EdN aprenderem os fluxos do git, como commits e PRs (Pul
 Cada Aluno ira criar um arquivo de resumo de aulas:
 
 - aula01.txt        - Eneas ira criar
-- aula02.txt        - Jonas ira criar
+- aula02.txt        - Joao ira criar
 - aula03.txt        - Gabriel ira criar
 
 Cada `aula*.txt` o aluno deve criar um resumo basico do que aprendeu na aula.
