@@ -1,0 +1,10 @@
+Resumo da terceira aula da Escola da Nuvem
+Na terceira aula, feita com o instrutor Eduardo Lara, foi apresentada  a diferença entre os serviços regionais e globais. Foi também comentado a respeito dos planos de suporte,  e reforçada a ideia de responsabilidade compartilhada.
+Quanto aos serviços regionais, são exemplos o  EC2, o Elastic BeanStalk e o AWS Lambda, assim como foi explicado na aula, esses são serviçoes que se trocarmos a região do console de gerenciamento não encontraremos  os recursos que criamos desses serviços. Eles aparecem apenas na região em que foram criados. 
+Sobre os serviços globais, eles possuem um escopo global, ou seja, indepedentemente da região selecionada os recursos criados aparecerão disponíveis. 
+Nos planos de suporte foram evidenciadas as principais diferenças e o melhor benefício para cada caso. 
+Quanto a responsabilidade compartilhada:
+Segurança of the cloud é preocupação da AWS 
+Segurança In the cloud é preocupação do usuário .
+Um recurso deixa de ser responsabilidade do usuário quando o mesmo passa a ser gerenciado pela AWS. 
+De forma geral, foi isso. 
